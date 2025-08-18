@@ -1,0 +1,8 @@
+/.bundle
+/log
+/tmp
+/.vscode
+/.idea
+/.DS_Store
+/coverage
+/pkg
